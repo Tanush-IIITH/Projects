@@ -2,11 +2,11 @@
 
 A robust, modular, and POSIX-compliant Unix shell implementation in C. This project mimics core functionalities of major shells like Bash or Zsh, featuring a custom recursive descent parser, advanced process management, and a suite of built-in commands.
 
-## 🚀 Overview
+## Overview
 
 This C-Shell is built from scratch to demonstrate a deep understanding of Operating System concepts, specifically process creation, signal handling, and inter-process communication (IPC). It parses complex user inputs defined by a custom Context-Free Grammar (CFG) and executes them using low-level system calls.
 
-## ✨ Key Features
+## Key Features
 
 ### 1. Advanced Command Execution
 * **Foreground & Background Processes:** Seamlessly manages foreground tasks and background jobs (using `&`) with a robust job control system.
@@ -34,7 +34,7 @@ This C-Shell is built from scratch to demonstrate a deep understanding of Operat
 * **`reveal`:** Lists directory contents with support for hidden files (`-a`) and long-listing format (`-l`), sorted lexicographically.
 * **`log`:** Maintains a persistent history of the last 15 commands across sessions, with capabilities to `purge` or `execute` commands by index.
 
-## 🛠️ Architecture
+## Architecture
 
 The project is structured into multiple modules to ensure separation of concerns:
 
@@ -49,7 +49,7 @@ The project is structured into multiple modules to ensure separation of concerns
 | **`activities.c`** | Manages process tracking and state updates. |
 | **`builtins`** | Implementations for `hop`, `reveal`, `log`, etc. |
 
-## 📦 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 * GCC Compiler
