@@ -1,0 +1,25 @@
+
+xv6 kernel is booting
+
+init: starting sh
+PID 2 | Type: I/O-Bound | Run Time: 0 | Wait Time: 0 | Turnaround Time: 0
+$ Process 10 finished
+PID 10 | Type: I/O-Bound | Run Time: 24 | Wait Time: 97 | Turnaround Time: 121
+Process 12 finished
+PID 12 | Type: I/O-Bound | Run Time: 24 | Wait Time: 98 | Turnaround Time: 122
+Process 13 finished
+PID 13 | Type: I/O-Bound | Run Time: 24 | Wait Time: 98 | Turnaround Time: 122
+Process 9 finiProcess 11 finished
+PID 11 | Type: I/O-Bound | Run Time: 25 | Wait Time: 98 | Turnaround Time: 123
+shed
+PID 9 | Type: I/O-Bound | Run Time: 26 | Wait Time: 97 | Turnaround Time: 123
+Process 4 finished
+PID 4 | Type: I/O-Bound | Run Time: 0 | Wait Time: 200 | Turnaround Time: 200
+Process 5 finished
+PID 5 | Type: I/O-Bound | Run Time: 0 | Wait Time: 200 | Turnaround Time: 200
+Process 6 finished
+PID 6 | Type: I/O-Bound | Run Time: 0 | Wait Time: 200 | Turnaround Time: 200
+Process 7 finished
+PID 7 | Type: I/O-Bound | Run Time: 0 | Wait Time: 200 | Turnaround Time: 200
+Process 8 finished
+PID 8 | Type: I/O-Bound | Run Time: 0 | Wait Time: 200 | Turnaround Time: 200

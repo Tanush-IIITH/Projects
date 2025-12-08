@@ -107,7 +107,9 @@ ACK=4097
 
 The Receiver advertises its available buffer in `window_size`. The Sender ensures:
 
-$$\text{LastByteSent} - \text{LastByteAcked} \leq \text{receiver\_window}$$
+```
+LastByteSent - LastByteAcked ≤ receiver_window
+```
 
 This prevents buffer overflow and mimics TCP flow control.
 

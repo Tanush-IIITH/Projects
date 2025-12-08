@@ -1,0 +1,4890 @@
+
+xv6 kernel is booting
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+init: starting sh
+
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+PID: 2 | vRuntime: 0
+--> Scheduling PID 3 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 2 | vRuntime: 0
+--> Scheduling PID 2 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+--> Scheduling PID 3 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 2 | vRuntime: 0
+--> Scheduling PID 2 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+--> Scheduling PID 3 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 2 | vRuntime: 0
+--> Scheduling PID 2 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+--> Scheduling PID 3 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 2 | vRuntime: 0
+--> Scheduling PID 2 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+--> Scheduling PID 3 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 2 | vRuntime: 0
+--> Scheduling PID 2 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+--> Scheduling PID 3 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 2 | vRuntime: 0
+--> Scheduling PID 2 (lowest vRuntime)
+
+PID 2 | Type: I/O-Bound | Run Time: 0 | Wait Time: 0 | Turnaround Time: 0
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+PID: 13 | vRuntime: 0
+PID: 12 | vRuntime: 0
+PID: 11 | vRuntime: 0
+PID: 10 | vRuntime: 0
+PID: 9 | vRuntime: 0
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 13 | vRuntime: 0
+PID: 12 | vRuntime: 0
+PID: 11 | vRuntime: 0
+PID: 10 | vRuntime: 0
+PID: 9 | vRuntime: 0
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+--> Scheduling PID 13 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 12 | vRuntime: 0
+PID: 11 | vRuntime: 0
+PID: 10 | vRuntime: 0
+PID: 9 | vRuntime: 0
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 13 | vRuntime: 4
+--> Scheduling PID 12 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 11 | vRuntime: 0
+PID: 10 | vRuntime: 0
+PID: 9 | vRuntime: 0
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+--> Scheduling PID 11 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 10 | vRuntime: 0
+PID: 9 | vRuntime: 0
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+--> Scheduling PID 10 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 9 | vRuntime: 0
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+--> Scheduling PID 9 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 9 | vRuntime: 4
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 9 | vRuntime: 4
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 9 | vRuntime: 4
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 9 | vRuntime: 4
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 9 | vRuntime: 4
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+PID: 9 | vRuntime: 4
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+--> Scheduling PID 3 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 9 | vRuntime: 4
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+--> Scheduling PID 9 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 9 | vRuntime: 10
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 9 | vRuntime: 10
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 9 | vRuntime: 10
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 9 | vRuntime: 10
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 9 | vRuntime: 10
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 9 | vRuntime: 10
+--> Scheduling PID 3 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 10 | vRuntime: 4
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 9 | vRuntime: 10
+--> Scheduling PID 10 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 3 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 11 | vRuntime: 4
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 11 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 3 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 12 | vRuntime: 4
+PID: 13 | vRuntime: 4
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 12 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 13 | vRuntime: 4
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 13 | vRuntime: 4
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 13 | vRuntime: 4
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 13 | vRuntime: 4
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 3 | vRuntime: 0
+PID: 13 | vRuntime: 4
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+PID: 13 | vRuntime: 4
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 3 (lowest vRuntime)
+
+$
+[Scheduler Tick]
+PID: 3 | vRuntime: 0
+PID: 13 | vRuntime: 4
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 3 (lowest vRuntime)
+
+ 
+[Scheduler Tick]
+PID: 13 | vRuntime: 4
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+--> Scheduling PID 13 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 12 | vRuntime: 10
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+--> Scheduling PID 12 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 12 | vRuntime: 18
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 12 | vRuntime: 18
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 12 | vRuntime: 18
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 12 | vRuntime: 18
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 12 | vRuntime: 18
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 11 | vRuntime: 10
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 12 | vRuntime: 18
+--> Scheduling PID 11 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 10 | vRuntime: 10
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 10 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 9 | vRuntime: 10
+PID: 13 | vRuntime: 12
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 9 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 13 | vRuntime: 12
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 13 | vRuntime: 12
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 13 | vRuntime: 12
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 13 | vRuntime: 12
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 13 | vRuntime: 12
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 13 | vRuntime: 12
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+--> Scheduling PID 13 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 9 | vRuntime: 18
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 9 (lowest vRuntime)
+
+Process 9 finished
+PID 9 | Type: I/O-Bound | Run Time: 24 | Wait Time: 74 | Turnaround Time: 98
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 10 | vRuntime: 18
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 10 (lowest vRuntime)
+
+Process 10 finished
+PID 10 | Type: I/O-Bound | Run Time: 25 | Wait Time: 81 | Turnaround Time: 106
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 11 | vRuntime: 18
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 11 (lowest vRuntime)
+
+Process 11 finished
+PID 11 | Type: I/O-Bound | Run Time: 25 | Wait Time: 88 | Turnaround Time: 113
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 12 | vRuntime: 18
+PID: 13 | vRuntime: 20
+--> Scheduling PID 12 (lowest vRuntime)
+
+Process 12 finished
+PID 12 | Type: I/O-Bound | Run Time: 25 | Wait Time: 95 | Turnaround Time: 120
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 13 | vRuntime: 20
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 13 | vRuntime: 20
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 13 | vRuntime: 20
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 13 | vRuntime: 20
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+PID: 13 | vRuntime: 20
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+PID: 13 | vRuntime: 20
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 13 | vRuntime: 20
+--> Scheduling PID 13 (lowest vRuntime)
+
+Process 13 finished
+PID 13 | Type: I/O-Bound | Run Time: 25 | Wait Time: 100 | Turnaround Time: 125
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 8 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 8 (lowest vRuntime)
+
+Process 8 finished
+PID 8 | Type: I/O-Bound | Run Time: 0 | Wait Time: 220 | Turnaround Time: 220
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 7 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 7 (lowest vRuntime)
+
+Process 7 finished
+PID 7 | Type: I/O-Bound | Run Time: 0 | Wait Time: 220 | Turnaround Time: 220
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 6 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 6 (lowest vRuntime)
+
+Process 6 finished
+PID 6 | Type: I/O-Bound | Run Time: 0 | Wait Time: 220 | Turnaround Time: 220
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 5 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 5 (lowest vRuntime)
+
+Process 5 finished
+PID 5 | Type: I/O-Bound | Run Time: 0 | Wait Time: 220 | Turnaround Time: 220
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+PID: 4 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
+
+[Scheduler Tick]
+PID: 4 | vRuntime: 0
+--> Scheduling PID 4 (lowest vRuntime)
+
+Process 4 finished
+PID 4 | Type: I/O-Bound | Run Time: 0 | Wait Time: 220 | Turnaround Time: 220
+
+[Scheduler Tick]
+PID: 1 | vRuntime: 0
+--> Scheduling PID 1 (lowest vRuntime)
+
