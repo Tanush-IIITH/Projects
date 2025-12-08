@@ -97,6 +97,54 @@ make clean
 make qemu SCHEDULER=CFS
 ```
 
+## Multi-Level Feedback Queue (MLFQ) Scheduler
+
+MLFQ is an advanced scheduling algorithm that balances responsiveness for interactive processes with fairness for CPU-bound workloads. It uses multiple priority queues with different time slices to automatically adapt process priority based on behavior.
+
+### Queue Structure
+
+Four priority queues with decreasing priority:
+
+| Queue | Priority | Time Slice | Purpose |
+|-------|----------|-----------|---------|
+| 0 | Highest | 1 tick | Interactive/I/O-bound processes |
+| 1 | High | 4 ticks | Medium interactivity |
+| 2 | Medium | 8 ticks | Mixed workloads |
+| 3 | Lowest | 16 ticks | CPU-bound processes |
+
+### Scheduling Rules
+
+**Process Arrival**: New processes start at the end of queue 0 (highest priority).
+
+**Priority Selection**: Always schedule from the highest non-empty queue. If a process is running from a lower queue and a process arrives in a higher queue, the current process is preempted at the next tick.
+
+**Time Slice Expiry**: If a process uses its full time slice, it moves to the end of the next lower queue (unless already in queue 3, where it stays).
+
+**Voluntary Yield (I/O Bound)**: When a process yields before using its full time slice (e.g., during I/O wait), it re-enters at the end of the same queue when ready.
+
+**Lowest Queue Round-Robin**: Queue 3 uses round-robin scheduling to ensure no starvation.
+
+**Starvation Prevention**: Every 48 ticks, all processes move back to queue 0 to reset priorities and prevent indefinite starvation.
+
+**Process Completion**: Completed processes leave the system.
+
+### Adaptive Behavior
+
+MLFQ dynamically learns process characteristics:
+
+- **Interactive processes** (frequent I/O) stay in higher queues with shorter time slices
+- **CPU-bound processes** gradually move to lower queues with longer time slices
+- **Mixed behavior** processes can move up and down based on actual usage patterns
+
+This design provides responsiveness for interactive users while fairly scheduling long-running computations.
+
+Build using:
+
+```bash
+make clean
+make qemu SCHEDULER=MLFQ
+```
+
 ## Performance Comparison
 
 Using xv6's built-in `schedulertest`, the schedulers were compared (single CPU):
@@ -106,8 +154,9 @@ Using xv6's built-in `schedulertest`, the schedulers were compared (single CPU):
 | Round Robin | Time-slice based | Simple but may cause unfairness |
 | FCFS | Non-preemptive | Can cause long waiting (convoy effect) |
 | CFS | Fair-share scheduling | Provides balanced waiting times |
+| MLFQ | Priority-based feedback | Balances interactivity and fairness; adaptive behavior |
 
-CFS demonstrates more consistent and fair CPU distribution across processes.
+MLFQ demonstrates superior responsiveness for interactive workloads while maintaining fairness for CPU-bound processes through automatic priority adjustment.
 
 ## Kernel Changes Overview
 
@@ -148,4 +197,11 @@ make qemu SCHEDULER=FCFS
 ```bash
 make clean
 make qemu SCHEDULER=CFS
+```
+
+### MLFQ
+
+```bash
+make clean
+make qemu SCHEDULER=MLFQ
 ```
