@@ -128,22 +128,6 @@ user/
 Makefile - scheduler selection via SCHEDULER= flag
 ```
 
-## What This Project Demonstrates
-
-- Kernel-level programming in xv6
-- Designing and implementing CPU scheduling algorithms
-- System call creation and integration
-- Fairness and runtime accounting in schedulers
-- Cooperative vs preemptive scheduling
-- Debugging inside an operating system
-
-## Possible Extensions
-
-- Implement Linux-style red-black tree runqueue
-- Add `sched_yield` behavior for CFS
-- Add load balancing for multi-core scheduling
-- Visualize vruntime graphs across ticks
-
 ## Running xv6 with Different Schedulers
 
 ### Default Round Robin
